@@ -35,6 +35,7 @@ from lerobot.robots import (  # noqa: F401
     lekiwi,
     make_robot_from_config,
     omx_follower,
+    so_amazing_hand,
     so_follower,
 )
 from lerobot.teleoperators import (  # noqa: F401
@@ -55,6 +56,7 @@ COMPATIBLE_DEVICES = [
     "so100_leader",
     "so101_follower",
     "so101_leader",
+    "so101_amazing_hand",
     "lekiwi",
 ]
 
